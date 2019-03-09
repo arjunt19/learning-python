@@ -1,2 +1,2 @@
 # learning-python
-learn
+python and data structures
